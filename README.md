@@ -9,7 +9,7 @@
 - ![Docker](https://img.icons8.com/color/30/docker.png) Docker
 - ![Kubernetes](https://img.icons8.com/color/30/kubernetes.png) Kubernetes 
 
-#### :neutral_face: Basic Knowledge
+#### :neutral_face: Basic knowledge
 - ![HTML](https://img.icons8.com/color/30/html-5.png) HTML  
 - ![CSS](https://img.icons8.com/color/30/css3.png) CSS 
 

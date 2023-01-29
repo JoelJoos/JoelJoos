@@ -1,18 +1,18 @@
 # Hi, I'm Joel
-> Commit yourself to lifelong Learning. The most valuable asset you will ever have is your mind and what you put into it.
+> Commit yourself to lifelong Learning. The most valuable asset you will ever have is your mind and what you put into it.  
 > -- Albert Einstein
 
 ## Languages
-![Python](https://img.icons8.com/color/30/000000/python--v1.png) Pyhon
-![Console](https://img.icons8.com/color/30/console.png) Shell
+![Python](https://img.icons8.com/color/30/000000/python--v1.png) Pyhon  
+![Console](https://img.icons8.com/color/30/console.png) Shell  
 
-Currently learning:
-![Dart](https://img.icons8.com/color/30/dart.png) Dart
-![HTML](https://img.icons8.com/color/30/html-5.png) HTML
-![CSS](https://img.icons8.com/color/30/css3.png) CSS
-![PHP](https://img.icons8.com/color/30/php.png) PHP
+Currently learning:  
+![Dart](https://img.icons8.com/color/30/dart.png) Dart  
+![HTML](https://img.icons8.com/color/30/html-5.png) HTML  
+![CSS](https://img.icons8.com/color/30/css3.png) CSS  
+![PHP](https://img.icons8.com/color/30/php.png) PHP  
 ## Current Projects
-Nothing to put my finger on.
+Nothing to put my finger on.  
 Like almost everyone on GitHub, I have about 500 concurrent projects :slightly_smiling_face: 
 
 <!--

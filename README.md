@@ -3,6 +3,7 @@
 > -- Albert Einstein
 
 ## Languages
+I know my way around:
 - ![Python](https://img.icons8.com/color/30/000000/python--v1.png) Pyhon  
 - ![Console](https://img.icons8.com/color/30/console.png) Shell 
 
